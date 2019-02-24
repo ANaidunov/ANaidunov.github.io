@@ -11,9 +11,10 @@
   - С++
   - С#
   - Java
-
+* Sport
 
 ## IMPLEMENTED TASKS
+### Padawans tasks:
 [FancyCalc](https://github.com/ANaidunov/FancyCalc)  
 [PadawansTask1](https://github.com/ANaidunov/PadawansTask1)  
 [PadawansTask2](https://github.com/ANaidunov/PadawansTask2)  
@@ -27,4 +28,11 @@
 [PadawansTask10](https://github.com/ANaidunov/PadawansTask10)  
 [PadawansTask11](https://github.com/ANaidunov/PadawansTask11)  
 [PadawansTask12](https://github.com/ANaidunov/PadawansTask12)  
-[PadawansTask13](https://github.com/ANaidunov/PadawansTask13)  
+[PadawansTask13](https://github.com/ANaidunov/PadawansTask13) 
+
+### Other tasks:
+[20FirstFibonacciNumbers](https://github.com/ANaidunov/FibonacciNumbers) (this is an example of using List collection)   
+
+## My codewars.com profile:
+[ANaidunov | codewars](https://www.codewars.com/users/ANaidunov)  
+
