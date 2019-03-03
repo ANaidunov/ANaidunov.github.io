@@ -31,11 +31,9 @@
 [PadawansTask15](https://github.com/ANaidunov/PadawansTask15) 
 
 ### Other tasks:
-[20FirstFibonacciNumbers](https://github.com/ANaidunov/FibonacciNumbers) (this is an example of using List collection)   
-[TicTacToeGame](https://github.com/ANaidunov/TicTacToeGame)
+[20FirstFibonacciNumbers](https://github.com/ANaidunov/FibonacciNumbers) (this is an example of using List collection)    
+[TicTacToeGame](https://github.com/ANaidunov/TicTacToeGame) ([Udemy.com course certificate](https://www.udemy.com/certificate/UC-H8RVTSGT/))
 
 ## My codewars.com profile:
 [ANaidunov | codewars](https://www.codewars.com/users/ANaidunov)  
-
-[Udemy.com course serteficate](https://www.udemy.com/certificate/UC-H8RVTSGT/)
 
